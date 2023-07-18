@@ -1,1 +1,1 @@
-# Image-Classification
+The image classification model is a deep learning model trained to classify images into predefined categories or labels. It leverages convolutional neural networks (CNNs) to extract relevant features from the images and make predictions. The model was trained on a large dataset containing various images and corresponding labels.
